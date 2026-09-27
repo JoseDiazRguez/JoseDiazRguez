@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Modo-vacaciones" src="https://github.com/user-attachments/assets/27df240c-bf4a-4c51-a95f-cc4fb5ba5020" />
+<img width="2164" height="727" alt="Repositorio-personal" src="https://github.com/user-attachments/assets/ba2ea5f7-5230-4aea-b4eb-7957aa5a3729" />
 
 <!--
 **JoseDiazRguez/JoseDiazRguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
