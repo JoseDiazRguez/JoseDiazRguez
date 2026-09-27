@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="2022" height="778" alt="Repositorio-personal" src="https://github.com/user-attachments/assets/47abdf36-ce89-4f99-9693-ee0bb40fae00" />
 
 <!--
 **JoseDiazRguez/JoseDiazRguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
